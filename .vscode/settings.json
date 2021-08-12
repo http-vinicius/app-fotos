@@ -3,9 +3,10 @@
   "files.exclude": {
     "node_modules": true,
     ".vscode": true,
-    ".gitignore": false,
-    "package.json": false,
+    ".gitignore": true,
+    "package.json": true,
     "package-lock.json": true,
-    "public": false
+    "public": true,
+    "yarn.lock": true
   }
 }
